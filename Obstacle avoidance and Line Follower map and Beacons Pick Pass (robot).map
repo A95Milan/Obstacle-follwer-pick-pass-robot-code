@@ -1,0 +1,70 @@
+# This file was saved at Thu Nov 14 2024 17:56:11 GMT+0200 (Eastern European Standard Time)
+# from file:///C:/Program%20Files/RoboMind/mapeditor/index.html
+
+extra:
+
+paint:
+(w,-,6,1)
+(w,|,6,1)
+(w,-,7,1)
+(w,-,8,1)
+(w,-,9,1)
+(b,.,11,1)
+(w,|,6,2)
+(w,-,2,3)
+(w,|,2,3)
+(w,-,3,3)
+(w,-,4,3)
+(w,-,5,3)
+(w,-,6,3)
+(w,-,7,3)
+(w,-,8,3)
+(w,-,9,3)
+(w,-,10,3)
+(w,|,2,4)
+(w,|,1,5)
+(w,-,1,5)
+(w,-,2,5)
+(w,-,3,5)
+(w,|,4,5)
+(w,-,4,5)
+(w,-,5,5)
+(w,|,6,5)
+(w,|,9,5)
+(w,-,9,5)
+(w,-,10,5)
+(w,|,11,5)
+(w,|,1,6)
+(w,|,4,6)
+(w,|,6,6)
+(w,|,9,6)
+(w,|,11,6)
+(w,-,1,7)
+(w,|,4,7)
+(w,|,6,7)
+(w,|,9,7)
+(w,|,11,7)
+(w,|,4,8)
+(w,-,4,8)
+(w,-,5,8)
+(w,|,6,8)
+(w,|,9,8)
+(w,|,11,8)
+(w,-,2,9)
+(w,-,3,9)
+(w,-,6,9)
+(w,-,7,9)
+(w,-,8,9)
+
+map:
+CHHHHHHHHHHHD
+G           I
+GQQQQQ QQQQQI
+GQ          I
+GQ QQQQQQQQQI
+G       Q   I
+G QQ Q  Q   I
+G  Q Q  Q   I
+GQQQ    Q   I
+G*   Q      I
+BFFFFFFFFFF@E
