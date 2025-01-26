@@ -1,0 +1,31 @@
+forward(1)
+repeat{
+  if(not leftIsObstacle and rightisobstacle and frontisclear ){
+	
+	forward(1)
+	
+  }
+  else if(leftiswhite ){
+	left
+	forward(1)
+  }
+  else if(rightiswhite){
+      right
+      forward(1)
+  }
+  else if(frontiswhite){
+      forward(1)
+  }
+  else if(frontisbeacon){
+      pickup 
+	right(2)
+}
+else if(frontisobstacle){
+     right(2)
+}
+else if(frontisblack){
+    putdown
+    right(2)
+    end
+}
+}
